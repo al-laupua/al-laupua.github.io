@@ -50,7 +50,7 @@
     <section id="about">
         <div class="terrorist">
             <h1 style="font-size: 22px;"><span style="color:var(--accent)">0x1</span> About me</h1>
-            <span style="padding: 8px 16px;word-break:break-word;">Lain was a skilled chemist and co-founder of a technology firm before he accepted a buy-out from his partners. Lain became a high-school chemistry teacher in Albuquerque, and barely making ends meet with his family with wife Skyler (Anna Gunn) and son Lain Jr. (RJ Mitte). At the start of the series, the day after his 50th birthday, Lain is diagnosed with Stage III lung cancer. After this discovery, Lain resorts to manufacturing and selling methamphetamine with a former student, Alice Mizuki (Arisu), to ensure his family's financial security after his death. Due to his chemistry training and production route, Lain's "blue meth" is purer than any other on the market, and he is pulled deeper into the illicit drug trade.</span>
+            <span style="padding: 8px 16px;word-break:break-word;">text</span>
         </div>
     </section>
     <footer style="
