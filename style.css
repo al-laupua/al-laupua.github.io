@@ -7,7 +7,7 @@ html {
 }
 .banner{
   height:100vh;
-  background-image:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url(Background.png);
+  background-image:linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)),url(Background.png);
   background-size: cover;
   background-position: center;
     position: absolute;
